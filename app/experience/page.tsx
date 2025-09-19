@@ -2,7 +2,7 @@ import {experiences} from "@/data/experienceInfo"
 
 export default function Experience() {
   return (
-    <section className="relative bg-gradient-to-br from-background via-gray-900 to-blue-900 text-white py-3 pb-8 md:py-16 px-6 md:px-20 overflow-hidden">
+    <section className="relative bg-gradient-to-br from-background via-gray-900 to-blue-900 text-white py-10 md:py-16 px-6 md:px-20 overflow-hidden">
       <div className="flex flex-col md:flex-row justify-between items-center mb-14 relative z-10 gap-3">
         <div>
           <h2 className="text-3xl md:text-4xl font-bold mb-2">EXPERIENCE</h2>

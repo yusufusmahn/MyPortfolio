@@ -4,7 +4,7 @@ import {education} from "@/data/educationInfo"
 
 const Education = () => {
   return (
-    <section className="text-white px-6 py-3 pb-8 md:py-16 flex flex-col items-center">
+    <section className="text-white px-6 py-10 md:py-16 flex flex-col items-center">
       <h2 className="text-3xl md:text-4xl font-bold text-center border-b-2 border-secondary inline-block pb-2">
         EDUCATION
       </h2>
