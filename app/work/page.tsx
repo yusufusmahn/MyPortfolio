@@ -5,7 +5,7 @@ import { projects } from "@/data/workInfo";
 
 export default function SelectedProjects() {
   return (
-    <section className="text-white py-3 md:py-16">
+    <section className="text-white py-3 pb-8 md:py-16">
       <div className="container mx-auto px-6">
         <div className="flex flex-col md:flex-row md:items-end md:justify-between mb-12">
           <h2 className="text-3xl md:text-4xl font-bold uppercase tracking-wide">
