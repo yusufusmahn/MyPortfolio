@@ -60,6 +60,6 @@ export const projects: Project[] = [
     description:
       "A secure digital election and civic engagement system that allows citizens to vote securely, track election results, and report incidents and concerns.",
     url: "https://github.com/yusufusmahn/Capstone-Project.git",
-    tech: ["React", "Vite", "Chart.js", "TailwindCSS", "Docker"],
+    tech: ["React", "Vite", "Chart.js", "TailwindCSS", "Docker", "Python", "Django"],
   },
 ];
