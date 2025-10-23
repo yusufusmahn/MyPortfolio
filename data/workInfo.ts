@@ -33,7 +33,7 @@ export const projects: Project[] = [
     description:
       "An eBay-like online auction system where users can list items, place bids in real-time, and win auctions. Includes role-based authentication and transaction history tracking.",
     url: "https://github.com/yusufusmahn/AuctionSystemMaven-Ebay.git",
-    tech: ["Java", "Maven", "Hibernate", "MySQL", "JSP"],
+    tech: ["Java", "Maven", "Hibernate", "MySQL", "Docker"],
   },
   {
     title: "LightHouseBank",
@@ -42,7 +42,7 @@ export const projects: Project[] = [
     description:
       "A digital banking system with secure account management, fund transfers, transaction history, and balance monitoring. Built with enterprise-grade practices to simulate core banking operations.",
     url: "https://github.com/yusufusmahn/LiteBank.git",
-    tech: ["Java", "Spring Boot", "PostgreSQL", "Thymeleaf"],
+    tech: ["Java", "Spring Boot", "PostgreSQL", "Docker"],
   },
   {
     title: "Expense Tracker",
@@ -51,6 +51,15 @@ export const projects: Project[] = [
     description:
       "A personal finance tracking app to record daily expenses, categorize transactions, and visualize financial health using charts. Helps users stay on top of their budgets and savings goals.",
     url: "https://github.com/yusufusmahn/ExpenseTracker.git",
-    tech: ["React", "Firebase", "Chart.js", "TailwindCSS"],
+    tech: ["React", "Firebase", "Chart.js", "TailwindCSS", "Docker"],
+  },
+  {
+    title: "Voting System",
+    year: "2025",
+    image: "/tracker.png",
+    description:
+      "A secure digital election and civic engagement system that allows citizens to vote securely, track election results, and report incidents and concerns.",
+    url: "https://github.com/yusufusmahn/Capstone-Project.git",
+    tech: ["React", "Vite", "Chart.js", "TailwindCSS", "Docker"],
   },
 ];
