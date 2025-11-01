@@ -140,7 +140,7 @@ export default function ContactSection(): ReactElement {
         >
           <MdLocationOn className="w-6 h-6 text-red-500" />
           <p className="text-base sm:text-lg md:text-xl">
-            Wakanda Hostel, Abule Oja University road, Lagos State
+            Life Camp, FCT Abuja
           </p>
         </motion.div>
 

@@ -56,7 +56,7 @@ export const projects: Project[] = [
   {
     title: "Voting System",
     year: "2025",
-    image: "/tracker.png",
+    image: "/vote.jpeg",
     description:
       "A secure digital election and civic engagement system that allows citizens to vote securely, track election results, and report incidents and concerns.",
     url: "https://github.com/yusufusmahn/Capstone-Project.git",
